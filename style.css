@@ -369,3 +369,6 @@
 footer p {
   padding-top: 10px;
 }
+.card:hover {
+  box-shadow: 10px 5px 10px gray;
+}
